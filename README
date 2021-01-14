@@ -1,0 +1,22 @@
+# Introduction
+This tutorial aims to introduce unit testing in python/django gradually with help of real life examples.
+
+# How to Use this Tutorial
+* For each topic in the below list there is a directory with name `CH-<Topic-ID>` under the `Tutorial` directory.
+* Each directory contains its own README file and an example (in `src` directory) to explain the topic. 
+* Refer README file first and then refer the example.
+
+## Index
+Tutorial covers below topics:
+1. Unit testing in Python
+    
+    1.1. Python's built-in Unit testing framework
+    
+    1.2. Pytest framework
+    
+    
+2. Unit testing in Django
+    
+    2.1. Django's unittest class
+    
+    2.2. Pytest with Django 
