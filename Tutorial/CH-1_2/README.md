@@ -1,4 +1,5 @@
 # pytest framework
+* Pytest expects our tests to be located in files whose names begin with test_ or end with _test.py.
 * pytest supports execution of unittest test cases. The real advantage of pytest comes by writing pytest test cases. pytest test cases are a series of functions in a Python file starting with the name test_.
 
 * pytest has some other great features:
